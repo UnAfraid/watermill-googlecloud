@@ -1,4 +1,4 @@
-module github.com/ThreeDotsLabs/watermill-googlecloud
+module github.com/UnAfraid/watermill-googlecloud
 
 go 1.17
 
